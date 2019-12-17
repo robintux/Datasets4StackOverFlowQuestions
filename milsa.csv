@@ -1,0 +1,37 @@
+Funcionario,Est.civil,Inst,Filhos,Salario,Anos,Meses,Regiao
+1,solteiro,1o Grau,NA,4,26,3,interior
+2,casado,1o Grau,1,4.56,32,10,capital
+3,casado,1o Grau,2,5.25,36,5,capital
+4,solteiro,2o Grau,NA,5.73,20,10,outro
+5,solteiro,1o Grau,NA,6.26,40,7,outro
+6,casado,1o Grau,0,6.66,28,0,interior
+7,solteiro,1o Grau,NA,6.86,41,0,interior
+8,solteiro,1o Grau,NA,7.39,43,4,capital
+9,casado,2o Grau,1,7.59,34,10,capital
+10,solteiro,2o Grau,NA,7.44,23,6,outro
+11,casado,2o Grau,2,8.12,33,6,interior
+12,solteiro,1o Grau,NA,8.46,27,11,capital
+13,solteiro,2o Grau,NA,8.74,37,5,outro
+14,casado,1o Grau,3,8.95,44,2,outro
+15,casado,2o Grau,0,9.13,30,5,interior
+16,solteiro,2o Grau,NA,9.35,38,8,outro
+17,casado,2o Grau,1,9.77,31,7,capital
+18,casado,1o Grau,2,9.8,39,7,outro
+19,solteiro,Superior,NA,10.53,25,8,interior
+20,solteiro,2o Grau,NA,10.76,37,4,interior
+21,casado,2o Grau,1,11.06,30,9,outro
+22,solteiro,2o Grau,NA,11.59,34,2,capital
+23,solteiro,1o Grau,NA,12,41,0,outro
+24,casado,Superior,0,12.79,26,1,outro
+25,casado,2o Grau,2,13.23,32,5,interior
+26,casado,2o Grau,2,13.6,35,0,outro
+27,solteiro,1o Grau,NA,13.85,46,7,outro
+28,casado,2o Grau,0,14.69,29,8,interior
+29,casado,2o Grau,5,14.71,40,6,interior
+30,casado,2o Grau,2,15.99,35,10,capital
+31,solteiro,Superior,NA,16.22,31,5,outro
+32,casado,2o Grau,1,16.61,36,4,interior
+33,casado,Superior,3,17.26,43,7,capital
+34,solteiro,Superior,NA,18.75,33,7,capital
+35,casado,2o Grau,2,19.4,48,11,capital
+36,casado,Superior,3,23.3,42,2,interior
