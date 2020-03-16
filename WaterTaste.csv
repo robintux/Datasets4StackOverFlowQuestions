@@ -1,0 +1,101 @@
+Gender,Age,Class,UsuallyDrink,FavBotWatBrand,Preference,First,Second,Third,Fourth
+F,18,F,Filtered,DEER PARK,CABD,Fiji,SamsChoice,Aquafina,Tap
+F,18,F,Tap,NONE,CABD,Fiji,SamsChoice,Aquafina,Tap
+F,18,F,Tap,DEER PARK,CADB,Fiji,SamsChoice,Tap,Aquafina
+F,18,F,Tap,AQUAFINA,CBDA,Fiji,Aquafina,Tap,SamsChoice
+M,19,J,Filtered,NONE,CBAD,Fiji,Aquafina,SamsChoice,Tap
+M,19,J,Filtered,SAM'S,CABD,Fiji,SamsChoice,Aquafina,Tap
+F,19,SO,Tap,NONE,CABD,Fiji,SamsChoice,Aquafina,Tap
+F,40,O,Bottled,SAM'S,BDCA,Aquafina,Tap,Fiji,SamsChoice
+M,23,SR,Tap,NONE,BCDA,Aquafina,Fiji,Tap,SamsChoice
+F,35,O,Tap,FIJI,CABD,Fiji,SamsChoice,Aquafina,Tap
+M,9,O,Tap,NONE,DACB,Tap,SamsChoice,Fiji,Aquafina
+M,18,F,Tap,NONE,ACBD,SamsChoice,Fiji,Aquafina,Tap
+F,19,SO,Bottled,NONE,BDAC,Aquafina,Tap,SamsChoice,Fiji
+F,19,SO,Bottled,NONE,ABCD,SamsChoice,Aquafina,Fiji,Tap
+F,19,SO,Tap,AQUAFINA,DBCA,Tap,Aquafina,Fiji,SamsChoice
+F,22,O,Bottled,KIRKLAND,CABD,Fiji,SamsChoice,Aquafina,Tap
+F,21,SR,Tap,AQUAFINA,CABD,Fiji,SamsChoice,Aquafina,Tap
+F,19,SO,Bottled,DEER PARK,CABD,Fiji,SamsChoice,Aquafina,Tap
+F,19,SO,Bottled,DEER PARK,ABCD,SamsChoice,Aquafina,Fiji,Tap
+F,18,F,Bottled,NONE,CBAD,Fiji,Aquafina,SamsChoice,Tap
+F,21,SR,Bottled,AQUAFINA,BACD,Aquafina,SamsChoice,Fiji,Tap
+F,19,SO,Bottled,DEER PARK,ACBD,SamsChoice,Fiji,Aquafina,Tap
+F,19,SO,Bottled,AQUAFINA,BCAD,Aquafina,Fiji,SamsChoice,Tap
+F,19,SO,Bottled,DEER PARK,CADB,Fiji,SamsChoice,Tap,Aquafina
+F,18,F,Tap,AQUAFINA,BCAD,Aquafina,Fiji,SamsChoice,Tap
+M,2,O,Filtered,AQUAFINA,CABD,Fiji,SamsChoice,Aquafina,Tap
+F,18,F,Filtered,AQUAFINA,ACBD,SamsChoice,Fiji,Aquafina,Tap
+F,18,F,Bottled,AQUAFINA,ABDC,SamsChoice,Aquafina,Tap,Fiji
+F,18,F,Bottled,AQUAFINA,CADB,Fiji,SamsChoice,Tap,Aquafina
+M,22,SR,Filtered,FIJI,BCAD,Aquafina,Fiji,SamsChoice,Tap
+F,21,SR,Bottled,AQUAFINA,CABD,Fiji,SamsChoice,Aquafina,Tap
+M,40,O,Filtered,AQUAFINA,ADCB,SamsChoice,Tap,Fiji,Aquafina
+M,19,J,Filtered,SAM'S,BACD,Aquafina,SamsChoice,Fiji,Tap
+M,21,SR,Tap,NONE,ACDB,SamsChoice,Fiji,Tap,Aquafina
+F,21,O,Tap,NONE,CBAD,Fiji,Aquafina,SamsChoice,Tap
+F,21,O,Tap,NONE,ABCD,SamsChoice,Aquafina,Fiji,Tap
+F,19,SO,Bottled,NONE,CADB,Fiji,SamsChoice,Tap,Aquafina
+M,19,SO,Tap,NONE,CBDA,Fiji,Aquafina,Tap,SamsChoice
+F,19,SO,Tap,NONE,DBCA,Tap,Aquafina,Fiji,SamsChoice
+F,21,SR,Tap,NONE,CBDA,Fiji,Aquafina,Tap,SamsChoice
+F,20,SR,Bottled,DEER PARK,BCDA,Aquafina,Fiji,Tap,SamsChoice
+M,21,SR,Filtered,NONE,ABDC,SamsChoice,Aquafina,Tap,Fiji
+M,18,F,Tap,DEER PARK,BADC,Aquafina,SamsChoice,Tap,Fiji
+F,21,SR,Bottled,DEER PARK,DABC,Tap,SamsChoice,Aquafina,Fiji
+F,21,SR,Bottled,DEER PARK,CDAB,Fiji,Tap,SamsChoice,Aquafina
+F,9,O,Filtered,AQUAFINA,DCAB,Tap,Fiji,SamsChoice,Aquafina
+F,18,F,Filtered,AQUAFINA,ABDC,SamsChoice,Aquafina,Tap,Fiji
+F,18,F,Tap,NONE,CDBA,Fiji,Tap,Aquafina,SamsChoice
+F,19,SO,Bottled,DEER PARK,CBAD,Fiji,Aquafina,SamsChoice,Tap
+F,21,J,Filtered,AQUAFINA,CADB,Fiji,SamsChoice,Tap,Aquafina
+F,45,O,Tap,NONE,CDBA,Fiji,Tap,Aquafina,SamsChoice
+M,18,F,Bottled,NESTLES,CDBA,Fiji,Tap,Aquafina,SamsChoice
+F,21,J,Bottled,PURE LIFE,ACDB,SamsChoice,Fiji,Tap,Aquafina
+F,20,J,Bottled,NONE,BCDA,Aquafina,Fiji,Tap,SamsChoice
+M,46,O,Tap,NONE,CDBA,Fiji,Tap,Aquafina,SamsChoice
+F,48,O,Bottled,DASANI,BACD,Aquafina,SamsChoice,Fiji,Tap
+F,21,SR,Filtered,DASANI,CBAD,Fiji,Aquafina,SamsChoice,Tap
+F,18,F,Filtered,PURE LIFE,DBCA,Tap,Aquafina,Fiji,SamsChoice
+M,20,J,Filtered,AQUAFINA,DBAC,Tap,Aquafina,SamsChoice,Fiji
+F,19,SO,Tap,AQUAFINA,ACBD,SamsChoice,Fiji,Aquafina,Tap
+M,21,SR,Bottled,DEER PARK,BCAD,Aquafina,Fiji,SamsChoice,Tap
+F,19,F,Filtered,AQUAFINA,ABDC,SamsChoice,Aquafina,Tap,Fiji
+M,18,F,Bottled,SPRING WATER,DBCA,Tap,Aquafina,Fiji,SamsChoice
+F,21,SR,Bottled,DASANI,BCDA,Aquafina,Fiji,Tap,SamsChoice
+F,22,SR,Filtered,AQUAFINA,BDAC,Aquafina,Tap,SamsChoice,Fiji
+F,21,O,Tap,NONE,BCAD,Aquafina,Fiji,SamsChoice,Tap
+F,19,SO,Bottled,NONE,BADC,Aquafina,SamsChoice,Tap,Fiji
+F,17,F,Bottled,NONE,CADB,Fiji,SamsChoice,Tap,Aquafina
+F,20,J,Bottled,AQUAFINA,CDBA,Fiji,Tap,Aquafina,SamsChoice
+F,18,F,Tap,NONE,ACDB,SamsChoice,Fiji,Tap,Aquafina
+M,19,SO,Tap,NONE,BACD,Aquafina,SamsChoice,Fiji,Tap
+M,19,SO,Bottled,DASANI,BDAC,Aquafina,Tap,SamsChoice,Fiji
+F,20,J,Filtered,NONE,ADBC,SamsChoice,Tap,Aquafina,Fiji
+F,19,SO,Filtered,FIJI,BACD,Aquafina,SamsChoice,Fiji,Tap
+M,48,O,Filtered,FIJI,ABCD,SamsChoice,Aquafina,Fiji,Tap
+M,21,SO,Tap,NONE,BACD,Aquafina,SamsChoice,Fiji,Tap
+M,20,J,Filtered,NONE,CBAD,Fiji,Aquafina,SamsChoice,Tap
+F,19,SO,Bottled,NONE,CABD,Fiji,SamsChoice,Aquafina,Tap
+M,19,SO,Filtered,SAM'S,ACDB,SamsChoice,Fiji,Tap,Aquafina
+F,40,O,Bottled,PERRIER,DACB,Tap,SamsChoice,Fiji,Aquafina
+M,50,O,Tap,PERRIER,CDBA,Fiji,Tap,Aquafina,SamsChoice
+M,23,O,Bottled,SAM'S,BDAC,Aquafina,Tap,SamsChoice,Fiji
+F,19,SO,Filtered,DEER PARK,CABD,Fiji,SamsChoice,Aquafina,Tap
+M,19,SO,Filtered,SAM'S,CABD,Fiji,SamsChoice,Aquafina,Tap
+M,22,SR,Tap,DEER PARK,BACD,Aquafina,SamsChoice,Fiji,Tap
+F,20,J,Bottled,DEER PARK,BDAC,Aquafina,Tap,SamsChoice,Fiji
+F,21,SR,Bottled,KIRKLAND,ADBC,SamsChoice,Tap,Aquafina,Fiji
+F,22,SR,Filtered,NONE,CABD,Fiji,SamsChoice,Aquafina,Tap
+F,27,O,Filtered,NONE,ACDB,SamsChoice,Fiji,Tap,Aquafina
+F,20,J,Tap,NONE,CDAB,Fiji,Tap,SamsChoice,Aquafina
+F,19,J,Bottled,AQUAFINA,ACBD,SamsChoice,Fiji,Aquafina,Tap
+M,18,J,Bottled,DEER PARK,CABD,Fiji,SamsChoice,Aquafina,Tap
+F,33,O,Bottled,NONE,CDAB,Fiji,Tap,SamsChoice,Aquafina
+F,36,O,Tap,NONE,CABD,Fiji,SamsChoice,Aquafina,Tap
+F,18,F,Tap,NONE,CDBA,Fiji,Tap,Aquafina,SamsChoice
+F,18,F,Bottled,NONE,BCAD,Aquafina,Fiji,SamsChoice,Tap
+M,18,F,Tap,NONE,ADCB,SamsChoice,Tap,Fiji,Aquafina
+F,19,SO,Tap,DASANI,ABCD,SamsChoice,Aquafina,Fiji,Tap
+F,9,O,Bottled,AQUAFINA,DCBA,Tap,Fiji,Aquafina,SamsChoice
+F,18,F,Bottled,DASANI,ABCD,SamsChoice,Aquafina,Fiji,Tap
