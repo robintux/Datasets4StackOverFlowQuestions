@@ -1,0 +1,19 @@
+Relative spinal bone mineral density measurements on 261 North
+American adolescents.  Each value is the difference in spnbmd
+taken on two consecutive visits, divided by the average. The age is
+the average age over the two visits.
+
+Variables:
+
+idnum:		identifies the child, and hence the repeat measurements
+age:		average age of child when measurements were taken
+gender:		male or female
+spnbmd:		Relative Spinal bone mineral density measurement
+
+If you use these data in a publication, please acknowledge the
+original source:
+
+Bachrach LK, Hastie T, Wang M-C, Narasimhan B, Marcus R. Bone Mineral
+Acquisition in Healthy Asian, Hispanic, Black and Caucasian Youth. A
+Longitudinal Study. J Clin Endocrinol Metab (1999) 84, 4702-12.
+
