@@ -1,0 +1,31 @@
+ID,Last_Name,First Name,City,State,Gender,Student Status,Major,Country,Age,SAT,Average score (grade),Height (in),Newspaper readership (times/wk)
+1,DOE01,JANE01,Los Angeles,California,Female,Graduate,Politics,US,30,2263,67,61,5
+2,DOE02,JANE02,Sedona,Arizona,Female,Undergraduate,Math,US,19,2006,63,64,7
+3,DOE01,JOE01,Elmira,New York,Male,Graduate,Math,US,26,2221,78,73,6
+4,DOE02,JOE02,Lackawana,New York,Male,Graduate,Econ,US,33,1716,78,68,3
+5,DOE03,JOE03,Defiance,Ohio,Male,Graduate,Econ,US,37,1701,65,71,6
+6,DOE04,JOE04,Tel Aviv,Israel,Male,Graduate,Econ,Israel,25,1786,69,67,5
+7,DOE05,JOE05,Cimax,North Carolina,Male,Graduate,Politics,US,39,1577,96,70,5
+8,DOE03,JANE03,Liberal,Kansas,Female,Undergraduate,Politics,US,21,1842,87,62,5
+9,DOE04,JANE04,Montreal,Canada,Female,Undergraduate,Math,Canada,18,1813,91,62,6
+10,DOE05,JANE05,New York,New York,Female,Graduate,Math,US,33,2041,71,66,5
+11,DOE06,JOE06,Hot Coffe,Mississippi,Male,Undergraduate,Econ,US,18,1787,82,67,3
+12,DOE06,JANE06,Java,Virginia,Female,Graduate,Math,US,38,1513,79,59,5
+13,DOE07,JOE07,Varna,Bulgaria,Male,Graduate,Politics,Bulgaria,30,1637,79,63,4
+14,DOE08,JOE08,Moscow,Russia,Male,Graduate,Politics,Russia,30,1512,70,75,6
+15,DOE07,JANE07,Drunkard Creek,New York,Female,Undergraduate,Math,US,21,1338,82,64,5
+16,DOE08,JANE08,Mexican Hat,Utah,Female,Undergraduate,Econ,US,18,1821,80,63,3
+17,DOE09,JANE09,Amsterdam,Holland,Female,Undergraduate,Math,Holland,19,1494,75,60,3
+18,DOE10,JANE10,Mexico,Mexico,Female,Graduate,Politics,Mexico,31,2248,95,59,4
+19,DOE11,JANE11,Caracas,Venezuela,Female,Undergraduate,Math,Venezuela,18,2252,92,68,5
+20,DOE09,JOE09,San Juan,Puerto Rico,Male,Graduate,Politics,US,33,1923,95,63,7
+21,DOE12,JANE12,Remote,Oregon,Female,Undergraduate,Econ,US,19,1727,67,62,7
+22,DOE10,JOE10,New York,New York,Male,Undergraduate,Econ,US,21,1872,82,73,4
+23,DOE13,JANE13,The X,Massachusetts ,Female,Graduate,Politics,US,25,1767,89,68,6
+24,DOE14,JANE14,Beijing,China,Female,Undergraduate,Math,China,18,1643,79,65,6
+25,DOE11,JOE11,Stockholm,Sweden,Male,Undergraduate,Politics,Sweden,19,1919,88,64,4
+26,DOE12,JOE12,Embarrass,Minnesota,Male,Graduate,Econ,US,28,1434,96,71,4
+27,DOE13,JOE13,Intercourse,Pennsylvania,Male,Undergraduate,Math,US,20,2119,88,71,5
+28,DOE15,JANE15,Loco,Oklahoma,Female,Undergraduate,Econ,US,20,2309,64,68,6
+29,DOE14,JOE14,Buenos Aires,Argentina,Male,Graduate,Politics,Argentina,30,2279,85,72,3
+30,DOE15,JOE15,Acme,Louisiana,Male,Undergraduate,Econ,US,19,1907,79,74,3
