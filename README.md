@@ -4,8 +4,10 @@
 * http://iinei.inei.gob.pe/microdatos/
 
 ## Argentina
-* https://datos.gob.ar/
+* https://datos.gob.ar
 
+## Mexico
+* https://datos.gob.mx/
 
 
 
