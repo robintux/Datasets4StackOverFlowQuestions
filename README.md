@@ -14,8 +14,8 @@
 * https://data.un.org/  
 * https://data.world/
 * https://data.worldbank.org/  
-* Otra interesante es la pagina de concursos kaggle:
-** https://www.kaggle.com/
+* Otra interesante es la pagina de concursos kaggle: https://www.kaggle.com/
+* https://dataverse.harvard.edu/
 
 
 
