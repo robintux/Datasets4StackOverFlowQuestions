@@ -9,7 +9,13 @@
 ## Mexico
 * https://datos.gob.mx/
 
-
+## Algunos portales de datos abiertos :
+* https://datasetsearch.research.google.com/
+* https://data.un.org/  
+* https://data.world/
+* https://data.worldbank.org/  
+* Otra interesante es la pagina de concursos kaggle:
+** https://www.kaggle.com/
 
 
 
