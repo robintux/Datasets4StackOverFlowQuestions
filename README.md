@@ -16,7 +16,7 @@
 * https://data.worldbank.org/  
 * Otra interesante es la pagina de concursos kaggle: https://www.kaggle.com/
 * https://dataverse.harvard.edu/
-
+* https://www.ecdc.europa.eu/en/publications-data
 
 
 
