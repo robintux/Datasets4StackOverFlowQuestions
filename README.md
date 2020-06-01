@@ -18,7 +18,7 @@
 * https://dataverse.harvard.edu/
 * https://www.ecdc.europa.eu/en/publications-data
 * https://www2.stetson.edu/~jrasp/data.htm
-
+* https://www.citibikenyc.com/system-data
 
 
 
