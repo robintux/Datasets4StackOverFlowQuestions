@@ -20,5 +20,5 @@
 * https://www2.stetson.edu/~jrasp/data.htm
 * https://www.citibikenyc.com/system-data
 * https://communities.sas.com/t5/SAS-Communities-Library/Need-data-for-teaching-or-learning-Get-it-here/ta-p/221088
-
+* https://www.inf.ufsc.br/~marcelo.menezes.reis/ArquivosYouTube.html
 
