@@ -17,7 +17,7 @@
 * Otra interesante es la pagina de concursos kaggle: https://www.kaggle.com/
 * https://dataverse.harvard.edu/
 * https://www.ecdc.europa.eu/en/publications-data
-
+* https://www2.stetson.edu/~jrasp/data.htm
 
 
 
