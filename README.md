@@ -23,3 +23,6 @@
 * https://www.inf.ufsc.br/~marcelo.menezes.reis/ArquivosYouTube.html
 * http://datos.gob.es/es
 * http://www.dados.gov.br/
+* https://datos.madrid.es/portal/site/egob/
+* https://www.ine.es/
+* http://www.cis.es/cis/opencms/ES/index.html
