@@ -8,6 +8,7 @@
 
 ## Mexico
 * https://datos.gob.mx/
+* https://www.inegi.org.mx/servicios/datosabiertos.html
 
 ## Algunos portales de datos abiertos :
 * https://datasetsearch.research.google.com/
