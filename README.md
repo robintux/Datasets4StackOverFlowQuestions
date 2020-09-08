@@ -37,6 +37,7 @@
 * https://data.cityofchicago.org/
 * https://instr.iastate.libguides.com/c.php?g=356107&p=2402204
 * https://www.mygreatlearning.com/blog/free-download-datasets/
+* https://github.com/rfordatascience/tidytuesday/blob/master/README.md
 
 
 
