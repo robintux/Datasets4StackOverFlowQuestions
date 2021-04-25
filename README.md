@@ -2,6 +2,8 @@
 ## Peru:
 * https://www.datosabiertos.gob.pe/
 * http://iinei.inei.gob.pe/microdatos/
+* Vacunación contra COVID - 19 [Ministerio de Salud - MINSA] : https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa-0
+
 
 ## Argentina
 * https://datos.gob.ar
