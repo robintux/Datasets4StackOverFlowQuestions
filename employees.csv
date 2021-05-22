@@ -1,0 +1,1001 @@
+First Name,Gender,Salary,Bonus %,Senior Management,Team
+Douglas,Male,97308,6.945,TRUE,Marketing
+Thomas,Male,61933,NaN,TRUE,
+Maria,Female,130590,11.858,FALSE,Finance
+Jerry,Male,NA,9.34,TRUE,Finance
+Larry,Male,101004,1.389,TRUE,Client Services
+Dennis,n.a.,115163,10.125,FALSE,Legal
+Ruby,Female,65476,10.012,TRUE,Product
+,Female,45906,11.598,,Finance
+Angela,,,18.523,TRUE,Engineering
+Frances,Female,139852,7.524,TRUE,Business Development
+Louise,Female,63241,15.132,TRUE,
+Julie,Female,102508,12.637,TRUE,Legal
+Brandon,Male,112807,17.492,TRUE,Human Resources
+Gary,Male,109831,5.831,FALSE,Sales
+Kimberly,Female,41426,NaN,TRUE,Finance
+Lillian,,59414,1.256,FALSE,Product
+Jeremy,Male,90370,7.369,FALSE,Human Resources
+Shawn,Male,111737,6.414,FALSE,na
+Diana,Female,132940,19.082,FALSE,Client Services
+Donna,Female,81014,1.894,FALSE,Product
+Lois,,64714,4.934,TRUE,Legal
+Matthew,Male,100612,13.645,FALSE,Marketing
+Joshua,,90816,18.816,TRUE,Client Services
+,Male,125792,5.042,,
+John,Male,97950,13.873,FALSE,Client Services
+,Male,37076,18.576,,Client Services
+Craig,Male,37598,7.757,TRUE,Marketing
+Scott,,122367,5.218,FALSE,Legal
+Terry,Male,124008,13.464,TRUE,Client Services
+Benjamin,Male,79529,7.008,TRUE,Legal
+Christina,Female,118780,9.096,TRUE,Engineering
+Joyce,,88657,12.752,FALSE,Product
+,Male,122340,6.417,,
+Jean,Female,119082,16.18,FALSE,Business Development
+Jerry,Male,95734,19.096,FALSE,Client Services
+Theresa,Female,85182,16.675,FALSE,Sales
+Rachel,Female,142032,12.599,FALSE,Business Development
+Linda,Female,57427,9.557,TRUE,Client Services
+Stephanie,Female,36844,5.574,TRUE,Business Development
+,Male,122173,7.797,,Client Services
+Michael,Male,99283,2.665,TRUE,Distribution
+Christine,,66582,11.308,TRUE,Business Development
+Beverly,Female,121918,15.835,FALSE,Legal
+Marilyn,Female,73524,5.207,TRUE,Marketing
+Cynthia,Female,145146,7.482,TRUE,Product
+Roger,Male,88010,13.886,TRUE,Sales
+Bruce,Male,114796,6.796,FALSE,Finance
+Kathy,Female,66820,NaN,TRUE,Client Services
+Clarence,Male,93581,6.083,TRUE,Business Development
+Chris,,113590,3.055,FALSE,Sales
+Nancy,Female,94976,13.83,TRUE,Engineering
+,,41126,14.009,,Sales
+Todd,Male,49339,1.695,TRUE,na
+Alan,,40341,17.578,TRUE,Finance
+Sara,Female,83677,8.999,FALSE,Engineering
+Karen,Female,102488,17.653,TRUE,Product
+Carl,Male,130276,16.084,TRUE,Finance
+?,Male,64715,15.107,TRUE,Human Resources
+Theresa,Female,72670,1.481,TRUE,Engineering
+Irene,Female,66851,11.279,FALSE,Engineering
+Paula,,48866,4.271,FALSE,Distribution
+Denise,Female,106862,3.699,FALSE,Business Development
+,Female,58112,19.414,,Marketing
+Matthew,Male,35203,18.04,FALSE,Human Resources
+Kathleen,,77834,18.771,FALSE,Business Development
+Steve,Male,61310,12.428,TRUE,Distribution
+Nancy,Female,125250,2.672,TRUE,Business Development
+Rachel,Female,51178,9.735,TRUE,Finance
+Jose,Male,84834,14.33,TRUE,Finance
+Irene,,100863,4.382,TRUE,Finance
+Todd,,84692,6.617,FALSE,Client Services
+Johnny,Male,118172,16.194,TRUE,Sales
+Bobby,Male,54043,3.833,FALSE,Product
+Frances,Female,90582,4.709,TRUE,Sales
+Thomas,Male,62096,17.029,FALSE,Marketing
+Bonnie,Female,104897,?,TRUE,Human Resources
+Margaret,Female,131604,7.353,TRUE,Distribution
+Charles,Male,107391,1.26,TRUE,Marketing
+Robin,Female,114797,5.965,TRUE,Sales
+NA,Female,115814,4.99,FALSE,Product
+Gerald,,137126,15.602,TRUE,Sales
+Christopher,Male,47369,14.822,FALSE,Legal
+Steven,Male,35095,8.379,TRUE,Client Services
+Shawn,Male,148115,6.539,TRUE,Finance
+Doris,Female,83072,7.511,FALSE,Finance
+Jeremy,Male,100238,3.887,TRUE,Client Services
+Annie,,103495,17.29,TRUE,Business Development
+Annie,Female,144887,8.276,TRUE,Sales
+Donna,Female,64088,6.155,TRUE,Legal
+Janice,Female,51082,11.955,FALSE,Legal
+Janice,,91719,11.583,TRUE,Legal
+James,,128771,8.309,FALSE,
+Linda,Female,119009,12.506,TRUE,Business Development
+Virginia,,111858,1.601,TRUE,Legal
+Harry,Male,130620,7.03,FALSE,Legal
+Heather,Female,43026,14.166,FALSE,Client Services
+Cynthia,Female,142321,1.737,NaN,Finance
+Laura,,140371,10.62,TRUE,Marketing
+Tina,Female,100705,16.961,TRUE,Marketing
+Harold,Male,77544,12.447,FALSE,Business Development
+Melissa,Female,48109,14.995,FALSE,Finance
+Aaron,Male,61602,11.849,TRUE,Marketing
+Jack,Male,103902,12.159,FALSE,Client Services
+Phyllis,Female,136984,8.932,TRUE,Finance
+John,Male,80740,19.305,FALSE,Marketing
+Kathy,Female,91712,8.567,FALSE,Finance
+Paul,Male,42146,3.046,FALSE,Legal
+Steven,Male,68680,16.565,FALSE,Legal
+Russell,,133980,12.396,TRUE,Legal
+Christopher,Male,37919,11.449,FALSE,
+Shirley,Female,147113,16.135,FALSE,Legal
+Bonnie,Female,42153,8.454,TRUE,Business Development
+Willie,Male,64363,4.023,FALSE,Marketing
+Tina,Female,114767,3.711,TRUE,Engineering
+Ashley,Female,58698,6.811,TRUE,Business Development
+Pamela,Female,54585,4.166,FALSE,Product
+,Male,76189,18.988,,Legal
+Steven,Male,109095,9.494,FALSE,Finance
+Andrea,Female,120204,9.557,FALSE,Business Development
+Paul,Male,41054,12.299,FALSE,Marketing
+Peter,Male,84885,15.402,FALSE,Business Development
+Kathleen,,119735,18.74,FALSE,Product
+Christina,Female,110169,13.892,TRUE,Engineering
+Helen,Female,73789,14.841,TRUE,Product
+Marilyn,Female,76078,2.401,TRUE,Product
+Patricia,Female,49368,14.226,FALSE,Human Resources
+Michelle,Female,57325,17.179,TRUE,Human Resources
+William,Male,66521,5.83,FALSE,Human Resources
+Kenneth,Male,127654,16.439,TRUE,Client Services
+Antonio,Male,60866,13.101,TRUE,Business Development
+Shirley,Female,41334,6.219,TRUE,Human Resources
+Rebecca,Female,94231,17.517,FALSE,Product
+Carlos,Male,146670,10.763,FALSE,Human Resources
+Lois,Female,106317,2.235,TRUE,Client Services
+Carolyn,Female,109260,2.65,TRUE,Business Development
+Gloria,Female,134148,8.833,TRUE,Legal
+Henry,Male,43542,19.687,FALSE,Legal
+Adam,Male,95327,15.12,FALSE,Distribution
+Ashley,Female,112238,6.03,TRUE,Engineering
+,Female,132373,10.527,,
+Shirley,Female,113850,1.854,FALSE,Marketing
+Adam,Male,110194,14.727,TRUE,Product
+Elizabeth,Female,146129,5.687,FALSE,Finance
+Teresa,,140013,8.689,TRUE,Engineering
+Nicole,,122717,12.452,FALSE,Sales
+Jennifer,Female,71715,13.079,TRUE,Client Services
+Patricia,Female,95322,4.15,n.a.,Product
+Philip,Male,89227,3.996,FALSE,Legal
+Patrick,,124488,14.837,TRUE,Sales
+,Female,86230,8.578,,Distribution
+Sean,Male,135490,19.934,FALSE,Marketing
+Brandon,,121333,15.295,FALSE,Business Development
+Ruth,Female,129297,8.067,TRUE,Client Services
+Victor,,84546,10.489,TRUE,Finance
+Rebecca,Female,85730,5.359,TRUE,Product
+Marie,Female,104058,17.695,TRUE,Business Development
+Howard,Male,105062,1.563,FALSE,Human Resources
+,Female,79536,14.443,,Product
+Norma,Female,114412,8.756,TRUE,Marketing
+James,,68501,14.316,FALSE,Marketing
+Kathy,Female,149563,16.991,TRUE,Finance
+Marilyn,,103386,11.451,FALSE,Distribution
+Arthur,Male,89786,14.422,TRUE,Legal
+Terry,Male,52226,19.135,FALSE,Client Services
+Mary,Female,134645,18.197,FALSE,Business Development
+,Female,59148,9.061,,Legal
+,Female,42341,7.014,,Sales
+Christopher,Male,142178,17.984,TRUE,Sales
+Peter,,38989,7.017,TRUE,Marketing
+Michelle,Female,53754,5.455,TRUE,Product
+Irene,Female,133772,19.02,TRUE,Sales
+Patrick,Male,143499,17.495,TRUE,Engineering
+Sara,Female,97058,9.402,FALSE,Finance
+Lillian,Female,85446,3.959,TRUE,Engineering
+,,40297,6.185,,Client Services
+Willie,Male,146651,1.451,TRUE,Engineering
+Victor,Male,124486,10.166,FALSE,Product
+Wayne,Male,102652,14.085,TRUE,Distribution
+Jane,Female,144474,17.648,FALSE,Product
+Jessica,Female,68759,19.343,TRUE,Finance
+Mark,Male,57286,5.025,TRUE,Business Development
+Randy,Male,58129,1.952,TRUE,Distribution
+Lillian,Female,123940,12.184,TRUE,Business Development
+Ruth,,98233,2.518,TRUE,Distribution
+Jerry,Male,140810,9.177,TRUE,Client Services
+Sandra,Female,42090,8.842,TRUE,Legal
+,Female,149654,1.825,,Sales
+Roger,Male,51430,6.46,FALSE,Marketing
+Charles,Male,71749,15.931,FALSE,Legal
+Clarence,Male,85700,1.215,FALSE,Sales
+Carol,Female,57783,9.129,FALSE,Finance
+Lois,Female,36946,6.652,FALSE,Engineering
+Barbara,,99326,16.475,TRUE,Legal
+Rebecca,Female,109259,4.443,TRUE,Legal
+Irene,Female,131038,8.996,FALSE,Distribution
+Ronald,Male,121068,12.757,TRUE,Product
+Steven,Male,62719,19.127,FALSE,Client Services
+Carolyn,Female,69268,3.031,FALSE,Client Services
+Maria,Female,36067,9.64,TRUE,Product
+Jonathan,Male,130581,16.736,TRUE,
+Gary,Male,89661,8.525,FALSE,Finance
+Kimberly,Female,36643,7.953,FALSE,Marketing
+Roger,Male,140558,5.084,TRUE,Sales
+Diana,Female,103521,2.784,TRUE,Business Development
+Willie,Male,55281,4.935,TRUE,Marketing
+Brandon,Male,115711,8.012,TRUE,Finance
+Patricia,Female,114079,8.399,TRUE,Client Services
+Katherine,Female,57531,1.767,FALSE,Client Services
+Jonathan,Male,141069,4.903,FALSE,Human Resources
+Emily,Female,89434,11.295,FALSE,Engineering
+Ruth,Female,44639,9.148,TRUE,Legal
+Linda,Female,110967,19.612,TRUE,Human Resources
+Lisa,Female,115387,1.821,FALSE,Client Services
+Evelyn,Female,81673,15.364,TRUE,Engineering
+Julie,Female,109588,3.55,FALSE,Engineering
+Mary,Female,92544,3.8,FALSE,Client Services
+Matthew,Male,142373,2.462,FALSE,Marketing
+Douglas,Male,83341,1.015,TRUE,Client Services
+Gregory,,98865,10.628,TRUE,Finance
+Billy,Male,120444,7.768,TRUE,Finance
+,Female,71945,5.56,,Marketing
+Gregory,Male,109564,3.845,FALSE,Legal
+Jason,Male,78417,3.067,FALSE,Finance
+Daniel,Male,106947,15.866,TRUE,Legal
+Sarah,Female,87298,2.311,FALSE,Distribution
+Harry,Male,64579,15.266,TRUE,Sales
+Kathy,Female,50905,9.404,TRUE,Finance
+Todd,Male,59728,11.226,TRUE,Client Services
+Bobby,Male,51685,17.445,TRUE,Engineering
+Jeremy,Male,49542,1.679,TRUE,Distribution
+George,,38375,8.999,FALSE,Legal
+NA,Female,64084,17.018,FALSE,Product
+Marilyn,Female,147663,10.263,FALSE,Human Resources
+Kathryn,Female,73935,14.752,FALSE,Sales
+Irene,Female,40837,12.182,TRUE,Client Services
+Norma,Female,94393,3.643,TRUE,Engineering
+Laura,Female,42087,2.624,FALSE,Product
+Cheryl,Female,52080,9.375,FALSE,Legal
+Kevin,Male,35061,5.128,FALSE,Legal
+Lillian,,64164,17.612,FALSE,Human Resources
+Phyllis,,94088,19.107,FALSE,Distribution
+Walter,Male,127813,5.961,FALSE,Finance
+Robert,Male,38041,18.428,TRUE,Engineering
+Jimmy,Male,126310,5.413,TRUE,Product
+Clarence,Male,142561,8.866,FALSE,Client Services
+Victor,Male,70817,17.138,FALSE,Engineering
+Fred,,59937,12.045,TRUE,Human Resources
+Brenda,,106115,3.742,TRUE,Product
+Justin,Male,82782,4.366,?,Distribution
+Betty,Female,104896,19.55,TRUE,Business Development
+Randy,,133943,8.94,TRUE,Sales
+Sharon,,83658,6.513,FALSE,Business Development
+Ralph,Male,71896,4.232,TRUE,Marketing
+,,113732,10.391,,Sales
+Edward,Male,110485,7.995,FALSE,Client Services
+Denise,Female,115118,5.108,FALSE,Human Resources
+Debra,Female,48696,4.75,FALSE,Legal
+,Male,42676,15.517,,Sales
+Michael,Male,43586,12.659,FALSE,
+Henry,Male,89258,15.585,TRUE,Human Resources
+Gloria,Female,90730,2.491,FALSE,Distribution
+Marie,Female,100308,13.677,FALSE,Product
+Anne,Female,69134,3.723,TRUE,Engineering
+Sarah,,58295,14.603,TRUE,Engineering
+Stephanie,Female,50141,13.218,TRUE,Human Resources
+Roy,Male,101941,3.45,FALSE,Client Services
+,Female,115145,14.063,,Distribution
+,Male,40451,16.044,,Distribution
+Irene,Female,56526,5.81,TRUE,Finance
+,Female,145316,18.517,,Human Resources
+Thomas,Male,103235,9.554,TRUE,Human Resources
+Frank,,58563,12.062,TRUE,Marketing
+Fred,Male,74129,18.225,FALSE,Product
+Nicholas,Male,74669,1.113,TRUE,Product
+Howard,Male,97490,5.46,TRUE,Marketing
+Debra,Female,104250,18.456,TRUE,Business Development
+Christine,Female,94345,11.996,FALSE,Finance
+Brenda,,82439,19.062,FALSE,Sales
+Betty,Female,51613,12.984,FALSE,Distribution
+Ruby,Female,105946,1.139,FALSE,Business Development
+Kevin,Male,46080,9.635,FALSE,Business Development
+Arthur,Male,134610,6.147,TRUE,n.a.
+Carl,,125104,12.345,FALSE,Client Services
+Todd,Male,107281,1.612,TRUE,Engineering
+Brenda,Female,141521,4.337,FALSE,Client Services
+Judy,Female,65931,2.304,FALSE,Human Resources
+Todd,Male,69989,10.985,TRUE,Finance
+Lois,Female,147183,9.999,TRUE,Client Services
+Walter,,66757,18.099,FALSE,Distribution
+Jessica,Female,75145,6.388,TRUE,Legal
+Jeremy,Male,129460,13.657,TRUE,
+Tammy,Female,132839,17.463,TRUE,Client Services
+Anne,Female,44537,18.284,TRUE,Client Services
+Jesse,Male,118733,9.653,FALSE,Marketing
+Virginia,Female,46905,19.154,FALSE,Distribution
+Jesse,Male,79582,3.873,FALSE,Legal
+Jeremy,,55394,3.18,TRUE,Sales
+Daniel,Male,123811,7.664,TRUE,Human Resources
+Patrick,,137314,4.542,TRUE,Marketing
+Emily,Female,36711,19.028,TRUE,Human Resources
+Alan,Male,111786,3.592,TRUE,Engineering
+James,Male,72257,13.023,FALSE,Engineering
+Adam,Male,71276,5.027,TRUE,Human Resources
+Joan,,38712,3.657,FALSE,Client Services
+Jeremy,Male,46930,18.702,TRUE,Finance
+Margaret,Female,125220,3.733,FALSE,Marketing
+Mark,Male,121477,17.44,TRUE,Business Development
+Marilyn,Female,86386,2.937,FALSE,Distribution
+Cheryl,Female,81308,2.196,TRUE,Legal
+Benjamin,Male,84810,15.794,FALSE,Marketing
+Harold,Male,66775,2.158,TRUE,Legal
+Ernest,,72145,13.448,TRUE,Finance
+Gerald,Male,121604,1.923,TRUE,Sales
+Judy,Female,109510,13.457,TRUE,Legal
+Bobby,Male,112117,6.338,FALSE,
+Bobby,,108127,15.858,FALSE,Client Services
+Marie,Female,123711,10.966,FALSE,Product
+Kathy,Female,132381,8.34,FALSE,Business Development
+Roy,Male,148225,1.841,FALSE,Finance
+Jacqueline,Female,n.a.,18.243,FALSE,Marketing
+,Female,62960,14.356,,Sales
+Julie,Female,56926,7.507,FALSE,Sales
+Douglas,Male,41428,14.372,FALSE,Product
+Linda,Female,115658,3.041,TRUE,Sales
+Ruby,Female,76707,6.031,FALSE,Business Development
+Russell,Male,60388,17.885,FALSE,Client Services
+Jeffrey,Male,45150,12.075,TRUE,Product
+Aaron,Male,58755,5.097,TRUE,Marketing
+Samuel,Male,76076,5.319,TRUE,Finance
+,Male,87760,14.987,,Engineering
+Randy,Male,135119,7.887,FALSE,Client Services
+Evelyn,Female,36759,17.269,TRUE,Marketing
+Fred,Male,121723,18.645,TRUE,Product
+Shirley,Female,110061,7.494,FALSE,Client Services
+Todd,Male,85074,1.844,FALSE,Client Services
+Robert,Male,85799,19.93,FALSE,Finance
+Mark,Male,75150,12.182,TRUE,Legal
+Earl,Male,91344,4.035,TRUE,Sales
+Richard,Male,86326,10.717,FALSE,Product
+Michael,Male,98753,16.443,TRUE,Human Resources
+Steven,Male,113060,2.846,TRUE,Sales
+Carlos,Male,77327,11.58,TRUE,Finance
+Marie,Female,62666,10.247,FALSE,Product
+Ronald,Male,96633,4.99,TRUE,Engineering
+Scott,Male,58248,3.914,FALSE,Business Development
+Steven,Male,83706,6.96,TRUE,Human Resources
+James,Male,74086,5.778,TRUE,Human Resources
+Lori,Female,95389,14.223,FALSE,Sales
+Philip,Male,129968,19.897,FALSE,Finance
+Phyllis,Female,?,8.723,FALSE,Sales
+Thomas,,41549,3.95,FALSE,Sales
+Cynthia,Female,74287,10.751,FALSE,Sales
+,Male,69906,4.844,,Engineering
+,Male,65078,3.095,,Marketing
+Elizabeth,Female,106406,1.782,TRUE,Legal
+Andrea,Female,115913,12.121,FALSE,Legal
+Judy,Female,38092,5.668,FALSE,Distribution
+Russell,Male,121160,7.843,FALSE,Engineering
+Scott,Male,90429,4.45,FALSE,Product
+Sarah,Female,64207,7.824,TRUE,Client Services
+Susan,Female,80688,18.892,TRUE,Sales
+Margaret,NA,55044,4.078,FALSE,Sales
+Joshua,Male,72893,9.555,FALSE,Distribution
+Justin,,96978,13.865,FALSE,Finance
+Juan,Male,97364,3.595,FALSE,Product
+Gloria,,140885,1.113,FALSE,Human Resources
+Jennifer,,58520,16.231,TRUE,Client Services
+Edward,Male,66067,10.957,TRUE,
+Marilyn,Female,147183,8.748,FALSE,Business Development
+Mary,Female,87721,12.484,FALSE,Product
+Linda,Female,144001,2.194,FALSE,Business Development
+Larry,Male,91133,5.14,FALSE,Sales
+Albert,Male,67827,19.717,TRUE,Engineering
+Kenneth,Male,81839,12.072,FALSE,Sales
+,Female,81444,3.171,,Distribution
+Gregory,,137661,4.805,TRUE,Sales
+Brandon,Male,112548,4.664,FALSE,Engineering
+Stephen,Male,111249,10.574,TRUE,Human Resources
+Russell,Male,114334,9.669,FALSE,Product
+,Female,118906,4.537,,Marketing
+Pamela,,72979,5.66,FALSE,Sales
+Scott,Male,64172,10.894,TRUE,Engineering
+,Female,107024,12.182,,
+Carlos,Male,50167,2.362,FALSE,Product
+Jack,Male,106995,15.723,FALSE,Product
+Debra,Female,70492,8.895,FALSE,Client Services
+Phyllis,Female,125881,16.697,FALSE,Sales
+Robert,Male,123294,19.894,FALSE,?
+Gloria,Female,131045,11.312,TRUE,Product
+Sharon,,97635,10.413,TRUE,Client Services
+Barbara,,94493,13.443,TRUE,Sales
+Marilyn,Female,140502,9.989,TRUE,Sales
+Ralph,Male,106310,4.03,TRUE,Client Services
+Harry,,46240,6.976,TRUE,Engineering
+Robin,Female,111163,5.025,TRUE,Product
+Kathy,Female,93753,7.094,TRUE,Sales
+Rose,Female,63494,19.385,TRUE,Human Resources
+Clarence,Male,116693,13.835,TRUE,Distribution
+Doris,Female,85215,7.425,TRUE,Human Resources
+Kathryn,Female,86439,7.799,FALSE,Finance
+Billy,,62913,18.241,TRUE,Marketing
+Norma,Female,38872,9.302,TRUE,Business Development
+Richard,,124655,14.272,TRUE,Engineering
+Craig,Male,113506,19.642,FALSE,Marketing
+Sarah,,109980,8.86,FALSE,Sales
+Sharon,Female,91522,7.564,FALSE,Finance
+Mary,Female,42214,17.538,TRUE,Business Development
+Steve,,83159,9.55,TRUE,Distribution
+Joe,Male,144082,1.62,TRUE,Client Services
+Jeremy,Male,47885,19.276,TRUE,Human Resources
+Ernest,Male,126232,6.191,TRUE,Sales
+Kevin,Male,134598,11.699,FALSE,Business Development
+Jacqueline,Female,66604,14.609,FALSE,Legal
+Johnny,Male,115194,5.861,TRUE,Marketing
+Gary,Male,49101,11.9,TRUE,Business Development
+Shirley,,67811,12.699,FALSE,Finance
+,Male,111043,5.966,,Distribution
+Sarah,,37748,9.047,FALSE,Human Resources
+Julia,Female,36403,2.664,TRUE,Finance
+Dorothy,Female,140136,3.12,TRUE,Business Development
+Justin,Male,121508,19.334,TRUE,Finance
+Kevin,Male,79906,18.021,TRUE,Sales
+Victor,Male,123144,16.261,TRUE,Product
+Deborah,Female,46953,17.436,FALSE,Client Services
+Matthew,,79443,14.637,FALSE,Human Resources
+Alice,Female,51395,2.378,TRUE,Finance
+Todd,Male,134408,3.56,TRUE,Human Resources
+Frank,Male,?,8.037,TRUE,Sales
+Christopher,Male,68028,7.869,TRUE,Finance
+Rose,Female,149903,5.63,FALSE,Human Resources
+Andrea,Female,79123,19.422,FALSE,Distribution
+Charles,Male,104014,7.077,FALSE,Legal
+Jessica,,121160,12.993,FALSE,Client Services
+Wanda,Female,65362,7.132,TRUE,Legal
+Joyce,Female,50701,14.227,TRUE,
+Billy,Male,144709,10.069,TRUE,Distribution
+Kathryn,Female,53061,11.864,TRUE,Finance
+Denise,Female,36697,11.196,TRUE,Sales
+Jason,Male,69244,6.22,TRUE,
+Nicholas,Male,101036,2.826,TRUE,Human Resources
+Aaron,Male,52119,11.343,TRUE,Client Services
+Louise,Female,46666,1.886,TRUE,Business Development
+Julie,Female,73437,2.518,TRUE,Finance
+Kathy,Female,86318,18.492,TRUE,Sales
+,Male,76409,7.008,,Distribution
+Chris,Male,71642,1.496,FALSE,
+Cheryl,Female,67150,15.85,TRUE,Marketing
+Gregory,Male,142208,11.204,TRUE,Engineering
+Wayne,Male,81183,17.066,FALSE,Client Services
+Beverly,Female,107163,3.665,TRUE,Human Resources
+Willie,Male,55038,19.691,n.a.,Legal
+Terry,,140002,19.49,TRUE,Marketing
+Scott,Male,146812,1.965,TRUE,Marketing
+Annie,Female,40119,4.338,TRUE,Human Resources
+,Male,136602,10.429,,Marketing
+Ruth,Female,69579,18.029,TRUE,Human Resources
+Deborah,,101457,6.662,FALSE,Engineering
+Patricia,Female,121232,16.624,FALSE,Legal
+Albert,Male,102626,15.843,FALSE,Finance
+Charles,,137171,5.574,TRUE,Marketing
+Tina,Female,88276,14.248,FALSE,Legal
+Jeremy,Male,43354,13.946,FALSE,Marketing
+Craig,Male,125556,7.996,FALSE,Engineering
+Jose,Male,59862,3.269,FALSE,Product
+Lawrence,Male,74640,18.641,FALSE,Marketing
+Helen,Female,52875,4.188,FALSE,Legal
+Walter,Male,58789,5.461,FALSE,Sales
+Amy,Female,122897,8.222,TRUE,Engineering
+Janice,Female,136032,10.696,TRUE,Marketing
+Stephen,Male,141958,9.078,TRUE,Legal
+Ryan,Male,139917,11.466,FALSE,Distribution
+Sharon,Female,147635,14.693,FALSE,Human Resources
+Joshua,Male,68230,8.047,FALSE,Client Services
+Clarence,Male,124365,8.457,FALSE,Business Development
+Jonathan,Male,104749,11.364,FALSE,Engineering
+Stephanie,Female,122121,7.937,TRUE,Engineering
+Kathy,Female,143541,8.461,FALSE,Human Resources
+Albert,Male,137840,9.705,FALSE,Business Development
+Michael,Male,73354,18.357,FALSE,Business Development
+Richard,Male,47647,18.787,TRUE,
+Amy,Female,106249,15.967,FALSE,Sales
+,Female,93847,1.085,,Business Development
+Beverly,,104815,3.38,FALSE,Product
+,Female,115436,3.099,,Human Resources
+Joe,Male,50645,11.119,FALSE,Marketing
+Ashley,Female,142415,1.985,TRUE,Finance
+Howard,Male,37984,2.021,FALSE,Distribution
+Cheryl,Female,71751,15.918,FALSE,Business Development
+Robert,Male,135882,19.944,FALSE,Legal
+Sharon,Female,46007,19.731,TRUE,Client Services
+Judith,Female,117055,7.461,FALSE,Marketing
+Nicholas,,58478,6.525,TRUE,na
+Jerry,Male,121357,18.845,FALSE,Business Development
+Craig,Male,44857,13.266,FALSE,Finance
+Barbara,Female,47322,7.25,TRUE,Sales
+Eugene,Male,81077,2.117,FALSE,Sales
+Johnny,Male,76394,5.437,TRUE,Marketing
+Benjamin,Male,114356,7.123,FALSE,Client Services
+Diana,Female,41831,4.548,FALSE,Business Development
+Barbara,,90187,14.764,TRUE,Distribution
+Christine,Female,72613,11.126,FALSE,Legal
+Sean,Male,42748,9.765,FALSE,Distribution
+Sarah,Female,37259,1.763,FALSE,Client Services
+Roger,Male,125033,4.887,TRUE,Marketing
+,Female,38275,10.494,,Distribution
+,Male,71520,13.248,,Engineering
+Donald,Male,106472,6.499,TRUE,Client Services
+Clarence,Male,103684,18.654,TRUE,Engineering
+Scott,Male,96111,15.592,FALSE,Human Resources
+Ann,Female,90719,6.22,FALSE,Business Development
+Frank,Male,140303,17.07,FALSE,Legal
+Joe,Male,62161,8.13,TRUE,Business Development
+Wanda,Female,78883,19.695,FALSE,
+Jimmy,Male,63549,19.624,FALSE,
+Amy,,63888,18.115,TRUE,Product
+Larry,Male,97370,10.458,FALSE,Sales
+Gloria,Female,66224,15.979,TRUE,Legal
+Ruth,Female,97915,3.997,TRUE,Human Resources
+Diana,Female,86883,18.003,TRUE,Product
+Raymond,Male,37812,3.178,FALSE,Human Resources
+Peter,Male,56580,8.411,TRUE,
+,,83895,17.971,,Engineering
+Catherine,Female,58047,14.858,TRUE,Distribution
+Diane,Female,124889,15.026,TRUE,Sales
+Peter,,118840,14.509,TRUE,Client Services
+Steve,Male,67780,9.54,TRUE,Human Resources
+Barbara,Female,144677,8.696,FALSE,Finance
+Helen,,45724,1.022,FALSE,Product
+Jimmy,,86676,7.175,TRUE,Product
+Christopher,Male,82401,7.252,FALSE,Client Services
+Kathleen,Female,35575,14.595,FALSE,Distribution
+Virginia,Female,123649,10.154,TRUE,Marketing
+Lisa,Female,38078,10.28,TRUE,Product
+Earl,Male,52620,13.773,FALSE,Product
+Gerald,,133366,12.292,FALSE,Legal
+Louise,Female,91462,8.205,FALSE,Marketing
+Clarence,Male,146589,4.905,TRUE,Business Development
+Cynthia,Female,51633,13.472,TRUE,Business Development
+Adam,Male,45181,3.491,FALSE,Human Resources
+Justin,Male,62454,3.459,TRUE,Sales
+,Female,84746,4.82,,Finance
+Ruby,Female,147362,7.851,TRUE,Engineering
+Amanda,Female,80803,14.077,TRUE,Distribution
+Anna,Female,117293,2.366,FALSE,Client Services
+Roger,Male,105689,13.32,TRUE,Marketing
+Julie,,93302,9.048,TRUE,Product
+Joseph,Male,102555,3.672,TRUE,Product
+Evelyn,Female,51525,10.366,FALSE,Finance
+Janice,Female,41190,3.311,TRUE,Sales
+Sara,Female,75484,3.186,FALSE,Finance
+Gregory,Male,82726,16.304,TRUE,Marketing
+Philip,Male,122319,19.122,FALSE,Engineering
+Barbara,Female,127297,11.905,TRUE,Product
+Amanda,Female,109290,13.853,FALSE,Engineering
+Phyllis,,99150,6.007,FALSE,Client Services
+Anne,Female,71930,18.451,TRUE,Product
+Arthur,Male,66819,6.639,TRUE,Marketing
+Jane,Female,42424,18.115,FALSE,Distribution
+Linda,Female,51431,13.295,FALSE,Engineering
+Ashley,Female,120675,6.51,FALSE,Human Resources
+Shawn,Male,96610,2.097,TRUE,Client Services
+Kathleen,Female,71430,8.572,FALSE,Engineering
+Sara,,87713,18.863,TRUE,Legal
+Randy,Male,86723,14.842,FALSE,Engineering
+Andrew,Male,43414,7.563,TRUE,Client Services
+Marilyn,Female,87145,17.33,FALSE,Human Resources
+Johnny,Male,91124,12.986,TRUE,Distribution
+,Female,48141,12.605,,
+Susan,Female,90829,19.142,FALSE,Marketing
+Ruby,Female,101262,6.773,FALSE,Client Services
+Kelly,Female,41427,1.431,FALSE,Product
+Jonathan,Male,56993,18.623,FALSE,Marketing
+Raymond,Male,114244,16.69,FALSE,Human Resources
+Kimberly,Female,81800,5.435,TRUE,
+,Female,118736,7.421,,Client Services
+John,Male,66077,5.809,TRUE,Product
+Michael,Male,35013,14.879,FALSE,Product
+Jerry,Male,98393,11.393,FALSE,Client Services
+Amanda,Female,107111,1.438,TRUE,Product
+Harold,Male,65673,1.187,TRUE,Legal
+Harry,Male,65482,18.089,FALSE,
+Ernest,Male,81919,15.118,FALSE,Marketing
+Harry,Male,59277,10.2,FALSE,Finance
+Diane,Female,49501,13.506,FALSE,Business Development
+Jack,Male,70367,18.266,TRUE,Legal
+Shirley,Female,132156,2.754,FALSE,Marketing
+Rose,Female,56961,7.585,FALSE,Marketing
+Cheryl,Female,98841,8.945,TRUE,Client Services
+Cynthia,Female,78226,2.419,FALSE,Human Resources
+Sandra,Female,116931,9.657,TRUE,Human Resources
+Andrea,Female,87575,13.346,TRUE,Business Development
+Rachel,Female,110924,7.808,FALSE,Distribution
+Justin,Male,78351,15.221,FALSE,Sales
+Marie,Female,125574,4.644,FALSE,Sales
+Louis,Male,95198,2.075,FALSE,Business Development
+Nancy,Female,121006,3.512,TRUE,Finance
+Mark,Male,95728,6.752,TRUE,Business Development
+Teresa,Female,69740,8.294,FALSE,Distribution
+Frances,Female,91996,11.506,FALSE,Product
+,Female,98385,10.925,,Human Resources
+Barbara,,90556,15.749,TRUE,Distribution
+Christine,,50366,9.862,TRUE,Marketing
+Bobby,,84232,15.704,TRUE,Engineering
+Carl,,100888,12.49,TRUE,Business Development
+Bruce,Male,141335,15.427,TRUE,Engineering
+Rose,Female,97691,2.142,FALSE,Client Services
+Mildred,Female,47266,10.256,FALSE,Client Services
+,Male,139754,12.74,,Sales
+,Female,116236,17.274,,Engineering
+Todd,Male,103405,15.91,FALSE,Sales
+Alan,Male,41453,10.084,FALSE,Product
+Elizabeth,,52730,12.525,FALSE,Marketing
+Julie,,60361,7.099,TRUE,Distribution
+Teresa,,63103,11.378,FALSE,Finance
+Eric,Male,65168,11.513,FALSE,Distribution
+Edward,Male,73105,6.083,TRUE,Engineering
+Kimberly,Female,37916,12.929,TRUE,Distribution
+Kathy,Female,45682,1.451,TRUE,Marketing
+Peter,Male,69297,1.268,FALSE,Finance
+Beverly,Female,59070,19.064,TRUE,Engineering
+Ralph,Male,81215,8.4,FALSE,Finance
+Justin,Male,128036,18.824,FALSE,Client Services
+Irene,Female,89780,8.999,TRUE,Sales
+Irene,Female,125018,9.601,TRUE,Legal
+Jeremy,Male,133033,12.2,FALSE,Sales
+Cynthia,Female,82408,8.701,TRUE,Marketing
+,Female,131755,2.93,,
+Anne,Female,128305,16.636,FALSE,Marketing
+,,147309,1.702,,Distribution
+Debra,Female,74911,19.513,FALSE,Marketing
+Michael,Male,47079,2.617,FALSE,Legal
+Jason,,82873,1.869,FALSE,Client Services
+Rebecca,Female,134673,6.878,FALSE,Engineering
+Andrea,Female,123591,6.5,TRUE,Engineering
+Carl,Male,75598,19.289,FALSE,
+Randy,Male,89831,13.047,TRUE,
+Marilyn,Female,92430,2.924,FALSE,Engineering
+Wayne,Male,126956,18.396,FALSE,Human Resources
+Frances,Female,112467,1.433,FALSE,Business Development
+Amanda,,46665,19.391,TRUE,Client Services
+Kathleen,Female,42553,3.756,TRUE,Distribution
+Amanda,Female,102081,5.203,FALSE,Sales
+Amanda,,135118,15.108,FALSE,Finance
+Shawn,Male,71975,9.77,FALSE,Human Resources
+Katherine,Female,149908,18.912,FALSE,Finance
+Anna,,45418,10.162,FALSE,Marketing
+Elizabeth,Female,79145,19.78,FALSE,Finance
+Donald,Male,122920,5.32,FALSE,
+Gregory,Male,128031,15.857,TRUE,Business Development
+Ruth,Female,59969,14.064,TRUE,Finance
+Cynthia,Female,35381,11.749,FALSE,Finance
+Deborah,Female,113129,17.371,FALSE,Client Services
+Willie,Male,141932,1.017,TRUE,Engineering
+Debra,Female,42296,16.922,FALSE,Product
+Carl,Male,63395,11.411,FALSE,Legal
+Walter,Male,125382,13.613,TRUE,Client Services
+Lisa,Female,113592,17.108,TRUE,Marketing
+Rebecca,Female,46750,11.367,TRUE,Sales
+Jessica,Female,90285,13.591,TRUE,Client Services
+Steve,,53692,4.785,TRUE,Marketing
+Mary,,100341,6.662,FALSE,Distribution
+Craig,Male,123876,4.225,FALSE,Engineering
+Katherine,Female,41643,4.659,TRUE,Distribution
+Andrea,Female,113760,12.866,TRUE,Distribution
+Timothy,Male,49473,12.463,FALSE,Legal
+Anthony,Male,146141,3.645,TRUE,Distribution
+Harold,,79459,7.776,TRUE,Business Development
+Douglas,,104496,14.771,TRUE,Marketing
+James,Male,67789,17.105,TRUE,Legal
+Joseph,,86564,11.879,TRUE,
+Martha,Female,135758,14.782,TRUE,Client Services
+Laura,Female,84672,3.96,FALSE,Distribution
+Robert,Male,111580,10.982,FALSE,Human Resources
+Ralph,Male,50455,16.248,FALSE,Business Development
+,Male,88733,1.932,,Human Resources
+Diane,Female,130577,12.791,FALSE,Marketing
+Annie,Female,138925,9.801,TRUE,Marketing
+Jacqueline,Female,62371,15.77,TRUE,Client Services
+Brenda,Female,87715,2.675,FALSE,Product
+Lori,Female,66029,3.345,TRUE,Client Services
+Albert,Male,86818,14.301,TRUE,Engineering
+Frank,Male,75147,17.398,FALSE,Product
+Deborah,Female,105573,5.268,TRUE,Product
+Robin,,41230,6.611,TRUE,Distribution
+Alice,Female,117787,10.485,FALSE,
+,Male,88086,19.387,,Finance
+Paul,,91462,18.704,FALSE,Finance
+,Male,139959,8.992,,Distribution
+Brian,Male,93901,17.821,TRUE,Legal
+Julie,,50529,17.263,FALSE,Finance
+Bruce,Male,134988,13.926,TRUE,Sales
+Joan,Female,120941,3.694,TRUE,Finance
+Harold,Male,118753,8.162,FALSE,Sales
+Alice,Female,92799,2.782,FALSE,Sales
+Barbara,Female,85718,13.326,FALSE,Client Services
+Sarah,Female,109517,5.146,FALSE,Human Resources
+Samuel,Male,85550,11.593,TRUE,Marketing
+,Male,136655,9.801,,Distribution
+Barbara,,43312,8.218,TRUE,Legal
+Amy,,102839,10.385,TRUE,Distribution
+Frank,Male,78891,7.927,TRUE,Distribution
+Robin,,93201,11.712,TRUE,Legal
+Debra,Female,84693,6.976,TRUE,Finance
+Brandon,,73587,9.769,TRUE,Human Resources
+Thomas,Male,65251,11.211,FALSE,Distribution
+Harry,Male,129148,15.193,TRUE,Engineering
+Todd,Male,128175,18.473,TRUE,
+Patricia,Female,75825,7.839,FALSE,Engineering
+Steve,Male,51821,1.197,TRUE,Legal
+,Male,60411,12.048,,Human Resources
+Edward,Male,58327,17.095,TRUE,Finance
+Karen,Female,46478,16.552,FALSE,Engineering
+Martin,,123963,15.745,TRUE,Engineering
+Ann,Female,79796,9.851,FALSE,Distribution
+Jonathan,Male,83809,12.922,FALSE,Distribution
+Peter,Male,77933,13.132,TRUE,Engineering
+Eric,Male,51070,13.806,TRUE,Business Development
+Jason,,97480,11.518,FALSE,Human Resources
+Terry,Male,58357,7.969,FALSE,Engineering
+John,Male,67165,13.001,FALSE,Engineering
+Marie,Female,145988,18.685,TRUE,Human Resources
+Harold,Male,147417,11.626,TRUE,Business Development
+Joshua,Male,95003,5.197,TRUE,Marketing
+Brandon,,144187,11.416,TRUE,Legal
+Andrea,Female,37888,13.47,FALSE,Engineering
+Jeremy,Male,131513,1.876,TRUE,Finance
+Daniel,Male,77287,13,TRUE,
+Roy,Male,46875,12.942,TRUE,Sales
+Dorothy,Female,82744,19.111,TRUE,Client Services
+Steven,Male,43252,18.892,FALSE,Client Services
+Nicole,Female,66047,18.674,TRUE,Marketing
+Ann,Female,118431,12.772,TRUE,Finance
+Henry,Male,59943,1.432,FALSE,Finance
+,Male,136681,3.655,,Business Development
+,Female,138807,1.4,,Human Resources
+Barbara,Female,82884,6.837,TRUE,Business Development
+Judy,Female,48668,11.716,TRUE,Product
+Lawrence,Male,122971,14.618,FALSE,Product
+Joseph,Male,107050,12.737,FALSE,Business Development
+Carlos,Male,138598,14.737,FALSE,Sales
+Russell,,149456,3.533,FALSE,Marketing
+Jane,Female,128540,15.941,FALSE,Legal
+Martin,Male,61117,2.844,FALSE,Client Services
+Steven,Male,100949,13.813,TRUE,Human Resources
+Judy,,46829,5.19,TRUE,Finance
+James,Male,69111,14.625,TRUE,Business Development
+Gloria,Female,46602,1.027,TRUE,Business Development
+Ernest,Male,61181,16.559,FALSE,Business Development
+Martha,Female,94963,19.626,TRUE,Business Development
+Janet,,85789,9.712,FALSE,Legal
+Louis,,145274,16.379,FALSE,Product
+Tina,Female,102841,3.369,FALSE,Client Services
+Henry,Male,49665,18.338,FALSE,Business Development
+Antonio,Male,41928,5.478,TRUE,
+Lisa,Female,128042,2.03,TRUE,Legal
+Denise,Female,86150,3.997,FALSE,Client Services
+Stephen,Male,121816,10.615,TRUE,Distribution
+Benjamin,Male,123409,7.783,FALSE,Product
+Carl,,98295,7.617,TRUE,Legal
+Ruth,Female,59678,10.895,FALSE,Distribution
+Shawn,Male,57871,4.02,TRUE,Human Resources
+Jennifer,Female,132084,10.006,TRUE,Engineering
+Terry,Male,35633,3.947,TRUE,Distribution
+Jacqueline,Female,125298,3.019,TRUE,Legal
+Roger,Male,115582,15.343,TRUE,Sales
+Alice,,148339,11.479,TRUE,Finance
+Justin,Male,112975,9.699,FALSE,Human Resources
+Janet,Female,36927,18.769,FALSE,Client Services
+Robin,Female,70248,9.66,TRUE,Sales
+Samuel,,141305,9.849,TRUE,Marketing
+Katherine,Female,72002,13.178,TRUE,Product
+Peter,Male,102577,12.026,TRUE,Product
+Lillian,Female,113554,18.018,TRUE,Business Development
+,Male,47176,10.736,,Finance
+,Female,106428,10.867,,
+Rose,Female,75181,6.06,TRUE,Finance
+Bobby,Male,79047,18.784,FALSE,Human Resources
+Kimberly,Female,52970,4.513,FALSE,Sales
+Antonio,Male,137979,5.266,FALSE,Distribution
+Doris,Female,114360,17.799,TRUE,Business Development
+Steven,Male,110306,16.843,TRUE,Human Resources
+Lawrence,Male,46378,9.127,FALSE,
+,Male,74104,17.68,,Client Services
+,,132505,13.592,,Product
+Stephanie,Female,96649,3.453,FALSE,Sales
+,Female,57811,8.941,,Marketing
+Sandra,Female,111468,2.58,TRUE,Product
+Kevin,Male,141498,4.135,TRUE,Sales
+Michelle,,124441,16.353,FALSE,Business Development
+Lisa,Female,40121,6.293,FALSE,Product
+Fred,Male,129712,11.058,FALSE,Finance
+Joseph,Male,126010,19.601,FALSE,Legal
+Anne,,122762,9.564,FALSE,Distribution
+Andrea,Female,149105,13.707,TRUE,Distribution
+Nicole,Female,44021,10.286,FALSE,
+Theresa,,42025,3.319,TRUE,Human Resources
+Catherine,Female,59970,12.801,FALSE,Client Services
+Rose,Female,145001,19.85,FALSE,Engineering
+Lawrence,Male,102589,17.952,TRUE,Marketing
+Raymond,Male,47529,2.712,TRUE,Product
+Clarence,Male,148941,11.517,FALSE,Product
+Ryan,Male,91109,17.499,TRUE,Human Resources
+Jane,Female,51923,13.623,FALSE,Business Development
+Lois,Female,53954,19.075,FALSE,Product
+Shawn,Male,39335,10.664,FALSE,Distribution
+Thomas,Male,111371,15.081,TRUE,Engineering
+Kathryn,Female,86676,6.081,FALSE,Sales
+Mary,Female,115057,2.089,FALSE,Finance
+Julie,Female,145357,3.459,FALSE,Engineering
+George,Male,36749,19.754,FALSE,Finance
+Ralph,Male,89854,7.227,FALSE,Business Development
+Judith,Female,134048,6.818,TRUE,Marketing
+,Male,141311,5.478,,Product
+Evelyn,Female,123621,19.767,TRUE,Marketing
+Rachel,Female,54941,3.221,TRUE,Distribution
+Maria,,106562,4,FALSE,Human Resources
+Kelly,Female,39371,4.068,FALSE,Engineering
+Ruby,Female,83112,4.083,FALSE,Marketing
+Ann,Female,96941,10.048,TRUE,Distribution
+Kenneth,Male,47232,17.862,TRUE,Legal
+William,Male,54058,5.182,TRUE,Human Resources
+,Female,80399,12.254,,Distribution
+Deborah,Female,118043,7.266,TRUE,Business Development
+,Male,109411,9.494,,Engineering
+Julia,Female,97566,2.147,FALSE,Marketing
+Robert,,69267,5.89,TRUE,Sales
+,,87103,5.665,,
+Jesse,,98811,7.487,FALSE,Legal
+Cynthia,Female,149684,7.864,FALSE,Product
+Johnny,Male,71383,2.097,TRUE,Human Resources
+Michael,Male,81206,19.908,TRUE,Distribution
+Kenneth,Male,69112,7.588,TRUE,Finance
+Keith,Male,120672,19.467,FALSE,Legal
+Gerald,Male,96511,9.331,FALSE,Human Resources
+Carl,,49325,2.071,TRUE,Business Development
+Douglas,Male,132175,2.28,FALSE,Engineering
+Carolyn,Female,118037,13.492,FALSE,Finance
+Joseph,Male,139570,15.804,TRUE,Finance
+Billy,Male,115280,9.153,FALSE,Distribution
+Joyce,Female,51065,16.807,FALSE,Human Resources
+Lillian,Female,103854,4.924,TRUE,Distribution
+Ruby,Female,48354,19.501,FALSE,Business Development
+Sandra,Female,132327,19.264,FALSE,Product
+Louise,Female,106362,8.965,FALSE,Sales
+Maria,,148857,8.738,FALSE,Legal
+Brenda,Female,131131,11.682,FALSE,Client Services
+Stephen,Male,129663,15.574,FALSE,Human Resources
+Nicole,,41449,4.707,FALSE,Finance
+Bobby,Male,93368,2.88,TRUE,Product
+Ernest,Male,53335,9.192,FALSE,Product
+Charles,Male,148291,6.002,FALSE,
+Bobby,Male,147842,16.158,TRUE,
+Diana,Female,105066,17.343,TRUE,Business Development
+Mildred,Female,139284,11.39,TRUE,
+Harry,Male,63046,10.411,FALSE,Finance
+Phillip,,89700,2.277,TRUE,
+Bonnie,,108946,12.211,FALSE,Finance
+Marie,Female,98406,7.943,TRUE,Product
+Sean,Male,108581,9.634,FALSE,Human Resources
+Robin,Female,41808,19.239,FALSE,Business Development
+Phillip,Male,36837,14.66,FALSE,Marketing
+Jerry,Male,140850,18.855,FALSE,Finance
+Ronald,Male,50426,18.536,TRUE,Sales
+Phillip,Male,134120,6.842,FALSE,Human Resources
+Ryan,Male,57292,6.01,FALSE,
+Karen,Female,80633,16.306,FALSE,Legal
+Bonnie,Female,131943,14.249,FALSE,Client Services
+Earl,Male,48046,7.737,FALSE,Marketing
+Katherine,Female,97443,13.657,FALSE,Product
+Matthew,Male,135352,7.986,TRUE,Business Development
+Cynthia,,107816,18.751,FALSE,Marketing
+Gerald,Male,96329,2.469,TRUE,Engineering
+Brenda,Female,73749,19.332,FALSE,Business Development
+Jason,Male,75607,4.299,TRUE,Sales
+Melissa,Female,98858,3.525,TRUE,Human Resources
+Beverly,Female,76485,9.212,TRUE,Engineering
+Terry,,41238,8.219,FALSE,Marketing
+,Male,114896,13.823,,Client Services
+Jacqueline,Female,125418,8.064,FALSE,Distribution
+Amy,Female,75415,19.132,FALSE,Client Services
+Robert,,90998,8.382,FALSE,Finance
+Ruby,Female,142868,6.318,FALSE,Marketing
+Sara,,135990,14.344,TRUE,Distribution
+Kathryn,Female,57300,18.015,FALSE,Marketing
+Lisa,Female,73706,18.53,FALSE,Finance
+Juan,Male,85871,9.16,FALSE,Product
+Anthony,Male,96795,14.837,FALSE,Sales
+David,Male,92242,15.407,FALSE,Legal
+Marilyn,Female,115149,11.934,TRUE,Legal
+Margaret,Female,126924,1.552,TRUE,Finance
+,Male,145329,7.1,,Finance
+Timothy,Male,92587,8.475,FALSE,Finance
+Brandon,Male,60263,2.709,FALSE,Sales
+Frank,Male,91406,5.681,TRUE,Business Development
+Betty,Female,37005,7.645,TRUE,Marketing
+Janice,,139791,16.968,FALSE,Business Development
+Victor,Male,45267,3.942,TRUE,Sales
+Kenneth,,95296,10.146,FALSE,Finance
+Jane,Female,59680,15.211,TRUE,Business Development
+Walter,Male,144701,16.323,TRUE,Marketing
+Christina,Female,35477,18.178,FALSE,Human Resources
+Patricia,Female,119266,6.911,FALSE,Distribution
+,Male,103877,6.322,,Distribution
+Heather,Female,47605,14.955,TRUE,Human Resources
+Stephanie,Female,136604,6.16,TRUE,Human Resources
+Alice,Female,121250,4.363,TRUE,Finance
+Frances,Female,35884,17.667,FALSE,Sales
+Elizabeth,Female,137144,10.081,FALSE,Finance
+Janice,Female,102697,3.283,FALSE,Engineering
+Donald,Male,61999,6.466,FALSE,Product
+Melissa,Female,45223,8.879,TRUE,Legal
+Carl,Male,54033,15.528,TRUE,Business Development
+Joe,Male,126120,1.02,FALSE,
+Lois,Female,99747,6.168,FALSE,Marketing
+Ann,Female,71958,5.272,TRUE,Distribution
+Todd,Male,115566,6.716,TRUE,Client Services
+Marilyn,Female,118369,7.696,TRUE,Business Development
+Shawn,Male,51667,6.339,FALSE,Product
+Ryan,Male,85858,19.475,FALSE,Client Services
+Sean,Male,131423,8.957,FALSE,Distribution
+Rose,Female,49538,9.828,FALSE,Client Services
+George,Male,50369,18.9,TRUE,Sales
+Arthur,Male,86615,3.412,TRUE,Business Development
+Irene,,135369,4.38,FALSE,Business Development
+Deborah,Female,60003,9.624,FALSE,Client Services
+,Female,95866,19.388,,Sales
+Judith,Female,109324,19.488,FALSE,Distribution
+Philip,Male,103557,16.014,TRUE,Business Development
+Jeffrey,Male,111376,2.673,TRUE,Business Development
+Theresa,Female,75661,1.079,TRUE,Legal
+Nancy,Female,85213,2.386,TRUE,Marketing
+Harold,Male,140444,3.771,FALSE,Distribution
+Bonnie,Female,90427,2.01,TRUE,Client Services
+Doris,Female,141439,3.799,FALSE,Business Development
+Samuel,Male,43694,3.787,TRUE,Engineering
+Alice,Female,131952,12.09,FALSE,Engineering
+Maria,Female,96250,10.056,FALSE,Business Development
+Aaron,,63126,18.424,FALSE,Client Services
+Mark,,44836,2.657,FALSE,Client Services
+Ralph,,70635,2.147,FALSE,Client Services
+Andrew,Male,137386,8.611,TRUE,Distribution
+William,Male,104840,15.653,TRUE,Engineering
+Lori,Female,75498,6.537,TRUE,Marketing
+Wayne,Male,67471,2.728,FALSE,Engineering
+Kenneth,Male,101914,1.905,TRUE,Distribution
+Gerald,,93712,17.426,TRUE,Distribution
+,Female,133472,16.941,,Distribution
+,Male,107351,5.329,,Marketing
+Ashley,Female,142410,11.048,TRUE,Engineering
+Scott,Male,37385,8.226,TRUE,Business Development
+Paula,Female,58423,10.833,FALSE,Business Development
+,Female,143638,9.662,,
+Teresa,Female,113425,11.907,TRUE,Human Resources
+Randy,Male,57266,14.077,FALSE,Product
+Joe,Male,119667,1.148,TRUE,Finance
+Sarah,Female,127118,11.176,FALSE,Legal
+Beverly,Female,80838,8.115,FALSE,Engineering
+Jeffrey,Male,70990,15.901,TRUE,Sales
+Gloria,Female,39833,9.631,FALSE,Engineering
+Albert,Male,45094,5.85,TRUE,Business Development
+Stephen,Male,93997,18.093,TRUE,Business Development
+Antonio,,103050,3.05,FALSE,Legal
+Jonathan,Male,121797,16.923,FALSE,Product
+Ann,Female,89443,17.94,TRUE,Sales
+Bruce,Male,35802,12.391,TRUE,Sales
+Catherine,Female,68164,18.393,FALSE,Client Services
+Louis,Male,93022,9.146,TRUE,Human Resources
+Thomas,Male,105681,19.572,FALSE,Engineering
+Louise,Female,43050,11.671,FALSE,Distribution
+Linda,Female,44486,17.308,TRUE,Engineering
+Alice,Female,63571,15.397,TRUE,Product
+Patrick,Male,75423,5.368,TRUE,Business Development
+Victor,,76381,11.159,TRUE,Sales
+Russell,Male,137359,11.105,FALSE,Business Development
+Harry,Male,67656,16.455,TRUE,Client Services
+Susan,Female,92436,12.467,FALSE,Sales
+Denise,Female,137954,4.195,TRUE,Legal
+Sarah,Female,124566,5.949,FALSE,Product
+Sean,Male,66146,11.178,FALSE,Human Resources
+Ernest,Male,142935,13.198,TRUE,Product
+Kimberly,Female,46233,8.862,TRUE,Engineering
+James,Male,148985,19.28,FALSE,Legal
+Rose,Female,91411,8.639,TRUE,Human Resources
+John,Male,146907,11.738,FALSE,Engineering
+Maria,Female,43455,13.04,FALSE,Engineering
+Stephen,,85668,1.909,FALSE,Legal
+Donna,Female,82871,17.999,FALSE,Marketing
+Gloria,Female,136709,10.331,TRUE,Finance
+Alice,Female,47638,11.209,FALSE,Human Resources
+Justin,,38344,3.794,FALSE,Legal
+Robin,Female,100765,10.982,TRUE,Client Services
+Rose,Female,134505,11.051,TRUE,Marketing
+Anthony,Male,112769,11.625,TRUE,Finance
+Tina,Female,56450,19.04,TRUE,Engineering
+George,Male,98874,4.479,TRUE,Marketing
+Henry,,132483,16.655,FALSE,Distribution
+Phillip,Male,42392,19.675,FALSE,Finance
+Russell,Male,96914,1.421,FALSE,Product
+Larry,Male,60500,11.985,FALSE,Business Development
+Albert,Male,129949,10.169,TRUE,Sales
