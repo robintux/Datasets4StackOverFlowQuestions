@@ -43,7 +43,8 @@
 * https://analisi.transparenciacatalunya.cat/es/
 * https://www.datarepository.movebank.org/
 * 
-
+## Yahoo Research : Yahoo Webscope Program
+  * https://webscope.sandbox.yahoo.com/
 
 
 
