@@ -46,5 +46,6 @@
 ## Yahoo Research : Yahoo Webscope Program
   * https://webscope.sandbox.yahoo.com/
 
-
+## Indicadores de coyuntura económica
+  * https://www.idescat.cat/indicadors/?id=conj&lang=es
 
