@@ -1,0 +1,46 @@
+# A continuación un conjunto de medidas corporales tomadas
+# a un grupo de estudiantes en una universidad particular.
+# las variables de la base de datos son :
+# edad: edad del estudiante en años
+# peso: peso del estudiante en kilogramos
+# altura: estatura del estudiante en centímetros
+# sexo: género del estudiante
+# muneca: diametro de la muñeca derecha en centímetros
+# biceps: diametro del biceps derecho en centímetros
+edad	peso	altura	sexo	muneca	biceps
+43	87.3	188.0	Hombre	12.2	35.8
+65	80.0	174.0	Hombre	12.0	35.0
+45	82.3	176.5	Hombre	11.2	38.5
+37	73.6	180.3	Hombre	11.2	32.2
+55	74.1	167.6	Hombre	11.8	32.9
+33	85.9	188.0	Hombre	12.4	38.5
+25	73.2	180.3	Hombre	10.6	38.3
+35	76.3	167.6	Hombre	11.3	35.0
+28	65.9	183.0	Hombre	10.2	32.1
+26	90.9	183.0	Hombre	12.0	40.4
+43	89.1	179.1	Hombre	11.3	36.5
+30	62.3	170.2	Hombre	11.5	34.2
+26	82.7	177.8	Hombre	11.5	35.2
+51	79.1	179.1	Hombre	11.8	34.0
+30	98.2	190.5	Hombre	10.7	34.8
+24	84.1	177.8	Hombre	11.5	38.6
+35	83.2	180.3	Hombre	11.1	36.4
+37	83.2	180.3	Hombre	10.5	34.0
+22	51.6	161.2	Mujer	 9.2	24.3
+20	59.0	167.5	Mujer	 9.9	27.8
+19	49.2	159.5	Mujer	 8.9	24.0
+25	63.0	157.0	Mujer	 9.5	28.0
+21	53.6	155.8	Mujer	 9.1	26.9
+23	59.0	170.0	Mujer	10.0	26.5
+26	47.6	159.1	Mujer	 9.4	24.1
+22	69.8	166.0	Mujer	10.7	29.2
+28	66.8	176.2	Mujer	 9.8	29.0
+40	75.2	160.2	Mujer	11.5	33.6
+32	55.2	172.5	Mujer	 8.6	24.8
+25	54.2	170.9	Mujer	 9.7	25.4
+25	62.5	172.9	Mujer	 9.2	25.9
+29	42.0	153.4	Mujer	 8.3	24.0
+22	50.0	160.0	Mujer	 8.6	25.6
+25	49.8	147.2	Mujer	 9.0	26.0
+23	49.2	168.2	Mujer	 9.6	23.5
+37	73.2	175.0	Mujer	11.0	31.0
