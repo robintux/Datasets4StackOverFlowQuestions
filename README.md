@@ -49,3 +49,5 @@
 ## Indicadores de coyuntura económica
   * https://www.idescat.cat/indicadors/?id=conj&lang=es
 
+## Datos Abiertos Dirección General de Epidemiología
+ * https://www.gob.mx/salud/documentos/datos-abiertos-152127
