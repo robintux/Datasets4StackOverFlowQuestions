@@ -56,11 +56,11 @@
 ## Movebank Data Repository
  * https://www.datarepository.movebank.org/
 
-## 
- * 
+## Iowa Data Portal
+ * https://data.iowa.gov/
 
-## 
- * 
+## Open Data for All New Yorkers
+ * https://opendata.cityofnewyork.us/
 
 ## 
  * 
