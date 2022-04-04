@@ -62,8 +62,8 @@
 ## Open Data for All New Yorkers
  * https://opendata.cityofnewyork.us/
 
-## 
- * 
+## Awesome Public Datasets
+ * https://github.com/awesomedata/awesome-public-datasets
 
 ## 
  * https://data.humdata.org/
