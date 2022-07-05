@@ -67,4 +67,7 @@
 
 ## 
  * https://data.humdata.org/
+ 
+ ## Use of ESA Climate Change Initiative data in ECMWF’s Earth system model 
+ https://www.ecmwf.int/en/newsletter/171/news/use-esa-climate-change-initiative-data-ecmwfs-earth-system-model
 
