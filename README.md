@@ -4,6 +4,8 @@
 * http://iinei.inei.gob.pe/microdatos/
 * Vacunación contra COVID - 19 [Ministerio de Salud - MINSA] : https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa-0
 * Reactiva Peru [MEF] : https://www.mef.gob.pe/es/?option=com_content&language=es-ES&Itemid=102666&lang=es-ES&view=article&id=6430
+* https://aplicativos.munlima.gob.pe/extranet/datos-abiertos/
+
 
 ## Argentina
 * https://datos.gob.ar
