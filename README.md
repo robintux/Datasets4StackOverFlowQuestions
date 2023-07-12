@@ -73,3 +73,16 @@
  ## Use of ESA Climate Change Initiative data in ECMWF’s Earth system model 
  https://www.ecmwf.int/en/newsletter/171/news/use-esa-climate-change-initiative-data-ecmwfs-earth-system-model
 
+## Fun with Meteorological Data (PCDs)
+http://www.lac.inpe.br/~rafael.santos/Docs/CAP394/PCDs.html
+
+## Data Science Example - Books about Data Science
+http://www.lac.inpe.br/~rafael.santos/Docs/CAP394/DataScienceBooks.html
+
+## Data Science Example - Papers about Data Science
+http://www.lac.inpe.br/~rafael.santos/Docs/CAP394/DataSciencePapers.html
+
+
+
+
+
