@@ -82,6 +82,8 @@ http://www.lac.inpe.br/~rafael.santos/Docs/CAP394/DataScienceBooks.html
 ## Data Science Example - Papers about Data Science
 http://www.lac.inpe.br/~rafael.santos/Docs/CAP394/DataSciencePapers.html
 
+## Maven 
+https://mavenanalytics.io/data-playground
 
 
 
